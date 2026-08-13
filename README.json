@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Paper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reading List 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-14T18:09:02Z",
+            "owner": "csarron",
+            "repo": "awesome-emdl",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reading List 5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-19T07:01:24Z",
+            "owner": "sun254",
+            "repo": "awesome-model-compression-and-acceleration",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reading List 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-09-02T05:55:45Z",
+            "owner": "jiecaoyu",
+            "repo": "reading_list",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "References"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware Accelerator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conference Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, gihub link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-19T03:52:54Z",
+            "owner": "renmengye",
+            "repo": "revnet-public",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, github link",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-19T19:15:35Z",
+            "owner": "wenwei202",
+            "repo": "terngrad",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "NIPS 2017"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "Content published on the Web.",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talks"
+    },
+    {
+      "description": "To the extent possible under law, Cedric Chee has waived all copyright and related or neighboring rights to this work.\nhttps://github.com/jnjaby/Model-Compression-Acceleration",
+      "items": [],
+      "title": "Training & tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:34:43.348Z",
+    "original_repository": "fangvv/awesome-edge-intelligence-collections",
+    "original_repository_sha": "e9d472ebc82fcfadc4d3ebb53e5f7797a71212c0",
+    "enhanced_repository": "enhansome/enhansome-edge-intelligence-collections",
+    "enhanced_repository_description": null,
+    "title": "awesome-model-compression-and-acceleration with stars"
+  }
+}
