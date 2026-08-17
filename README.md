@@ -693,7 +693,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
 * others to be added
 
-<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 547 | 🐛 4 | 📅 2024-09-21
+<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 546 | 🐛 4 | 📅 2024-09-21
 
 # Awesome ML Model Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
