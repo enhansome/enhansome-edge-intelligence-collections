@@ -244,7 +244,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 
 ### References
 
-* [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 1 | 📅 2023-03-14
+* [Reading List 4](https://github.com/csarron/emdl) ⭐ 768 | 🐛 1 | 📅 2023-03-14
 * [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19
 * [Reading List 2](https://github.com/jiecaoyu/reading_list) ⭐ 6 | 🐛 0 | 📅 2017-09-02
 * [Reading List](http://slazebni.cs.illinois.edu/spring17/reading_lists.html)
@@ -842,7 +842,7 @@ Content published on the Web.
 
 ### Libraries
 
-* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,578 | 🐛 246 | 🌐 Python | 📅 2026-07-27. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,578 | 🐛 247 | 🌐 Python | 📅 2026-08-21. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
