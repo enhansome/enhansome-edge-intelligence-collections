@@ -249,7 +249,7 @@
                     "archived": false,
                     "id": 155619942,
                     "language": "Python",
-                    "last_commit": "2026-08-22T17:32:33Z",
+                    "last_commit": "2026-08-24T15:07:37Z",
                     "owner": "tensorflow",
                     "repo": "model-optimization",
                     "stars": 1578
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:58.607Z",
+    "last_updated": "2026-08-24T15:07:39.088Z",
     "original_repository": "fangvv/awesome-edge-intelligence-collections",
     "original_repository_id": 190745374,
     "original_repository_sha": "e9d472ebc82fcfadc4d3ebb53e5f7797a71212c0",

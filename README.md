@@ -842,7 +842,7 @@ Content published on the Web.
 
 ### Libraries
 
-* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,578 | 🐛 250 | 🌐 Python | 📅 2026-08-22. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,578 | 🐛 250 | 🌐 Python | 📅 2026-08-24. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
 
