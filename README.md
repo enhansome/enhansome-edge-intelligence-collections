@@ -350,7 +350,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 # **Papers Reading List.**
 
-* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,115 | 🐛 1 | 📅 2026-03-30)
+* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,117 | 🐛 1 | 📅 2026-03-30)
 * Tutorials:
   * **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
   * **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
@@ -445,9 +445,9 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ## **Conditional (Adaptive) Computing**
 
+* Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2023-03-24, Google, etc.)
 * Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind\@Alex Graves)
 * Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
-* Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2023-03-24, Google, etc.)
 * Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
 * Outrageously Large Neural Networks\_The Sparsely-Gated Mixture-of-Experts Layer. (Google Brain, etc.)
 * Adaptive Neural Networks for Fast Test-Time Prediction. (Boston University, etc)
@@ -487,7 +487,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **Convolutional Neural Networks**
 
-* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,115 | 🐛 1 | 📅 2026-03-30
+* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,117 | 🐛 1 | 📅 2026-03-30
 
 ## **Conference Papers**
 
@@ -532,11 +532,11 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **ICCV 2017**
 
+* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
 * Channel Pruning for Accelerating Very Deep Neural Networks. (Xi’an Jiaotong University + Megvii Inc.)
 * ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
 * Learning Efficient Convolutional Networks through Network Slimming. (Intel Labs China, etc)
 * Performance Guaranteed Network Acceleration via High-Order Residual Quantization. (Shanghai Jiao Tong University + Peking University)
-* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
 
 ### **NIPS 2017**
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

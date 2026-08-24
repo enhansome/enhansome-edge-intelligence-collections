@@ -49,9 +49,24 @@
                 "repo": "reading_list",
                 "stars": 6
               }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chester256/Model-Compression-Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125077034,
+                "language": null,
+                "last_commit": "2021-06-21T14:59:46Z",
+                "owner": "chester256",
+                "repo": "Model-Compression-Papers",
+                "stars": 402
+              }
             }
           ],
-          "description": "https://github.com/chester256/Model-Compression-Papers",
+          "description": null,
           "node_type": "group",
           "title": "References"
         }
@@ -62,7 +77,95 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by Neural-Networks-on-Silicon",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50352391,
+            "language": null,
+            "last_commit": "2026-03-30T01:47:23Z",
+            "owner": "fengbintu",
+            "repo": "Neural-Networks-on-Silicon",
+            "stars": 2117
+          }
+        },
+        {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Spatially Adaptive Computation Time for Residual Networks. (github link",
+              "description": ", Google, etc.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85963492,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:20:45Z",
+                "owner": "mfigurnov",
+                "repo": "sact",
+                "stars": 247
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Conditional (Adaptive) Computing"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Please refer to Neural-Networks-on-Silicon",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50352391,
+                    "language": null,
+                    "last_commit": "2026-03-30T01:47:23Z",
+                    "owner": "fengbintu",
+                    "repo": "Neural-Networks-on-Silicon",
+                    "stars": 2117
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Convolutional Neural Networks"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hardware Accelerator"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, github link",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38183099,
+                    "language": "C++",
+                    "last_commit": "2020-03-08T18:33:18Z",
+                    "owner": "wenwei202",
+                    "repo": "caffe",
+                    "stars": 382
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ICCV 2017"
+            },
             {
               "children": [
                 {
@@ -99,6 +202,28 @@
               "description": null,
               "node_type": "group",
               "title": "NIPS 2017"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/cedrickchee/awesome-ml-model-compression",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160631954,
+                    "language": null,
+                    "last_commit": "2024-09-21T15:30:12Z",
+                    "owner": "cedrickchee",
+                    "repo": "awesome-ml-model-compression",
+                    "stars": 546
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CVPR 2019"
             }
           ],
           "description": null,
@@ -107,10 +232,109 @@
         }
       ],
       "title": "Papers Reading List."
+    },
+    {
+      "description": "An awesome style list that curates the best machine learning model compression and acceleration research papers, articles, tutorials, libraries, tools and more. PRs are welcome!",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TensorFlow Model Optimization Toolkit",
+                  "description": ". Accompanied blog post, TensorFlow Model Optimization Toolkit — Pruning API",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155619942,
+                    "language": "Python",
+                    "last_commit": "2026-08-22T17:32:33Z",
+                    "owner": "tensorflow",
+                    "repo": "model-optimization",
+                    "stars": 1578
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Libraries"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
+      "title": "Awesome ML Model Compression"
+    },
+    {
+      "description": "To the extent possible under law, Cedric Chee has waived all copyright and related or neighboring rights to this work.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/jnjaby/Model-Compression-Acceleration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100860881,
+            "language": null,
+            "last_commit": "2019-06-04T08:33:43Z",
+            "owner": "jnjaby",
+            "repo": "Model-Compression-Acceleration",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "License"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/mapleam/model-compression-and-acceleration-4-DNN",
+              "description": "（进去看）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153794335,
+                "language": null,
+                "last_commit": "2018-11-29T09:43:31Z",
+                "owner": "Z7zuqer",
+                "repo": "model-compression-and-acceleration-4-DNN",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/he-y/Awesome-Pruning",
+              "description": "剪枝集大成",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189363210,
+                "language": null,
+                "last_commit": "2024-04-04T07:18:56Z",
+                "owner": "he-y",
+                "repo": "Awesome-Pruning",
+                "stars": 2498
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Matrix Factorization(Low-rank Approximation)"
+        }
+      ],
+      "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:49:27.664Z",
+    "last_updated": "2026-08-24T14:33:58.607Z",
     "original_repository": "fangvv/awesome-edge-intelligence-collections",
     "original_repository_id": 190745374,
     "original_repository_sha": "e9d472ebc82fcfadc4d3ebb53e5f7797a71212c0",
