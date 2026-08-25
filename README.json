@@ -52,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/chester256/Model-Compression-Papers",
+              "title": "chester256/Model-Compression-Papers",
               "description": null,
               "children": [],
               "repo_info": {
@@ -207,7 +207,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/cedrickchee/awesome-ml-model-compression",
+                  "title": "cedrickchee/awesome-ml-model-compression",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -249,7 +249,7 @@
                     "archived": false,
                     "id": 155619942,
                     "language": "Python",
-                    "last_commit": "2026-08-24T15:07:37Z",
+                    "last_commit": "2026-08-24T15:24:49Z",
                     "owner": "tensorflow",
                     "repo": "model-optimization",
                     "stars": 1578
@@ -273,7 +273,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/jnjaby/Model-Compression-Acceleration",
+          "title": "jnjaby/Model-Compression-Acceleration",
           "description": null,
           "children": [],
           "repo_info": {
@@ -296,7 +296,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/mapleam/model-compression-and-acceleration-4-DNN",
+              "title": "Z7zuqer/model-compression-and-acceleration-4-DNN",
               "description": "（进去看）",
               "children": [],
               "repo_info": {
@@ -311,7 +311,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/he-y/Awesome-Pruning",
+              "title": "he-y/Awesome-Pruning",
               "description": "剪枝集大成",
               "children": [],
               "repo_info": {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:39.088Z",
+    "last_updated": "2026-08-25T06:37:05.700Z",
     "original_repository": "fangvv/awesome-edge-intelligence-collections",
     "original_repository_id": 190745374,
     "original_repository_sha": "e9d472ebc82fcfadc4d3ebb53e5f7797a71212c0",
