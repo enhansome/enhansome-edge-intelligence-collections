@@ -350,7 +350,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 # **Papers Reading List.**
 
-* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,117 | 🐛 1 | 📅 2026-03-30)
+* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,118 | 🐛 1 | 📅 2026-03-30)
 * Tutorials:
   * **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
   * **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
@@ -487,7 +487,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **Convolutional Neural Networks**
 
-* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,117 | 🐛 1 | 📅 2026-03-30
+* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,118 | 🐛 1 | 📅 2026-03-30
 
 ## **Conference Papers**
 
@@ -693,7 +693,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
 * others to be added
 
-<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 546 | 🐛 4 | 📅 2024-09-21
+<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 546 | 🐛 5 | 📅 2024-09-21
 
 # Awesome ML Model Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -920,8 +920,8 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 <https://github.com/mapleam/model-compression-and-acceleration-4-DNN> ⭐ 21 | 🐛 0 | 📅 2018-11-29  （进去看）
 
-<https://github.com/he-y/Awesome-Pruning> ⭐ 2,498 | 🐛 16 | 📅 2024-04-04 剪枝集大成
+<https://github.com/he-y/Awesome-Pruning> ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 剪枝集大成
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
