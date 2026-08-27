@@ -334,9 +334,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:08:53.256Z",
-    "original_repository": "fangvv/awesome-edge-intelligence-collections",
-    "original_repository_id": 190745374,
+    "last_updated": "2026-08-27T11:34:38.428Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 190745374,
+      "language": null,
+      "last_commit": "2021-05-17T05:05:29Z",
+      "owner": "fangvv",
+      "repo": "awesome-edge-intelligence-collections",
+      "stars": 61
+    },
     "original_repository_sha": "e9d472ebc82fcfadc4d3ebb53e5f7797a71212c0",
     "enhanced_repository": "enhansome/enhansome-edge-intelligence-collections",
     "enhanced_repository_description": null,
