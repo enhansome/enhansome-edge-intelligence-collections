@@ -18,7 +18,8 @@
                 "owner": "csarron",
                 "repo": "awesome-emdl",
                 "stars": 768
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "sun254",
                 "repo": "awesome-model-compression-and-acceleration",
                 "stars": 348
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "jiecaoyu",
                 "repo": "reading_list",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "chester256",
                 "repo": "Model-Compression-Papers",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             }
           ],
           "description": null,
@@ -89,7 +93,8 @@
             "owner": "fengbintu",
             "repo": "Neural-Networks-on-Silicon",
             "stars": 2118
-          }
+          },
+          "first_seen": "2026-08-28T23:05:01.416Z"
         },
         {
           "children": [
@@ -106,7 +111,8 @@
                 "owner": "mfigurnov",
                 "repo": "sact",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             }
           ],
           "description": null,
@@ -130,7 +136,8 @@
                     "owner": "fengbintu",
                     "repo": "Neural-Networks-on-Silicon",
                     "stars": 2118
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:01.416Z"
                 }
               ],
               "description": null,
@@ -159,7 +166,8 @@
                     "owner": "wenwei202",
                     "repo": "caffe",
                     "stars": 382
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:01.416Z"
                 }
               ],
               "description": null,
@@ -181,7 +189,8 @@
                     "owner": "renmengye",
                     "repo": "revnet-public",
                     "stars": 362
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:01.416Z"
                 },
                 {
                   "node_type": "item",
@@ -196,7 +205,8 @@
                     "owner": "wenwei202",
                     "repo": "terngrad",
                     "stars": 182
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:01.416Z"
                 }
               ],
               "description": null,
@@ -218,7 +228,8 @@
                     "owner": "cedrickchee",
                     "repo": "awesome-ml-model-compression",
                     "stars": 546
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:01.416Z"
                 }
               ],
               "description": null,
@@ -253,7 +264,8 @@
                     "owner": "tensorflow",
                     "repo": "model-optimization",
                     "stars": 1578
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:05:01.416Z"
                 }
               ],
               "description": null,
@@ -284,7 +296,8 @@
             "owner": "jnjaby",
             "repo": "Model-Compression-Acceleration",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:05:01.416Z"
         }
       ],
       "title": "License"
@@ -307,7 +320,8 @@
                 "owner": "Z7zuqer",
                 "repo": "model-compression-and-acceleration-4-DNN",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             },
             {
               "node_type": "item",
@@ -322,7 +336,8 @@
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
                 "stars": 2497
-              }
+              },
+              "first_seen": "2026-08-28T23:05:01.416Z"
             }
           ],
           "description": null,
@@ -334,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:59:11.644Z",
+    "last_updated": "2026-08-28T23:05:01.416Z",
     "original_repository_info": {
       "archived": false,
       "id": 190745374,
