@@ -244,7 +244,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 
 ### References
 
-* [Reading List 4](https://github.com/csarron/emdl) ⭐ 768 | 🐛 1 | 📅 2023-03-14
+* [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 1 | 📅 2023-03-14
 * [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19
 * [Reading List 2](https://github.com/jiecaoyu/reading_list) ⭐ 6 | 🐛 0 | 📅 2017-09-02
 * [Reading List](http://slazebni.cs.illinois.edu/spring17/reading_lists.html)

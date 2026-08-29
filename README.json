@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "csarron",
                 "repo": "awesome-emdl",
-                "stars": 768,
+                "stars": 769,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:27.882Z",
+    "last_updated": "2026-08-29T17:13:06.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
