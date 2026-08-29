@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded and mobile deep learning research resources",
+                "homepage": null,
                 "id": 93459704,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-03-14T18:09:02Z",
+                "open_issues": 1,
                 "owner": "csarron",
                 "repo": "awesome-emdl",
-                "stars": 768
+                "stars": 768,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "efficient-neural-networks",
+                  "embedded-ai",
+                  "inference",
+                  "mobile-ai",
+                  "mobile-deep-learning",
+                  "mobile-inference",
+                  "neural-network-compression",
+                  "pruning",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             },
@@ -28,12 +45,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a list of awesome papers on deep model ompression and acceleration",
+                "homepage": null,
                 "id": 118850449,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-06-19T07:01:24Z",
+                "open_issues": 3,
                 "owner": "sun254",
                 "repo": "awesome-model-compression-and-acceleration",
-                "stars": 348
+                "stars": 348,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             },
@@ -44,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 94120945,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-09-02T05:55:45Z",
+                "open_issues": 0,
                 "owner": "jiecaoyu",
                 "repo": "reading_list",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             },
@@ -60,12 +87,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Papers for deep neural network compression and acceleration",
+                "homepage": null,
                 "id": 125077034,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-06-21T14:59:46Z",
+                "open_issues": 0,
                 "owner": "chester256",
                 "repo": "Model-Compression-Papers",
-                "stars": 402
+                "stars": 402,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "model-acceleration",
+                  "model-compression",
+                  "papers"
+                ]
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             }
@@ -87,12 +125,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is originally a collection of papers on neural network accelerators. Now it's more like my selection of research on deep learning and computer architecture.",
+            "homepage": null,
             "id": 50352391,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-30T01:47:23Z",
+            "open_issues": 1,
             "owner": "fengbintu",
             "repo": "Neural-Networks-on-Silicon",
-            "stars": 2118
+            "stars": 2118,
+            "topics": [
+              "deep-learning",
+              "hardware"
+            ]
           },
           "first_seen": "2026-08-28T23:05:01.416Z"
         },
@@ -105,12 +151,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spatially Adaptive Computation Time for Residual Networks",
+                "homepage": null,
                 "id": 85963492,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-24T22:20:45Z",
+                "open_issues": 3,
                 "owner": "mfigurnov",
                 "repo": "sact",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             }
@@ -130,12 +183,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is originally a collection of papers on neural network accelerators. Now it's more like my selection of research on deep learning and computer architecture.",
+                    "homepage": null,
                     "id": 50352391,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-30T01:47:23Z",
+                    "open_issues": 1,
                     "owner": "fengbintu",
                     "repo": "Neural-Networks-on-Silicon",
-                    "stars": 2118
+                    "stars": 2118,
+                    "topics": [
+                      "deep-learning",
+                      "hardware"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
                 }
@@ -160,12 +221,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caffe for Sparse and Low-rank Deep Neural Networks",
+                    "homepage": null,
                     "id": 38183099,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-03-08T18:33:18Z",
+                    "open_issues": 23,
                     "owner": "wenwei202",
                     "repo": "caffe",
-                    "stars": 382
+                    "stars": 382,
+                    "topics": [
+                      "acceleration",
+                      "caffe",
+                      "compression",
+                      "deep-neural-networks",
+                      "low-rank-approximation",
+                      "sparse-convolution",
+                      "sparsity"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
                 }
@@ -183,12 +257,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for \"The Reversible Residual Network: Backpropagation Without Storing Activations\"",
+                    "homepage": null,
                     "id": 95688311,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-06-19T03:52:54Z",
+                    "open_issues": 5,
                     "owner": "renmengye",
                     "repo": "revnet-public",
-                    "stars": 362
+                    "stars": 362,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
                 },
@@ -199,12 +278,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ternary Gradients to Reduce Communication in Distributed Deep Learning (TensorFlow)",
+                    "homepage": null,
                     "id": 91928571,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-11-19T19:15:35Z",
+                    "open_issues": 6,
                     "owner": "wenwei202",
                     "repo": "terngrad",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "data-parallelism",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "distributed-training",
+                      "quantization",
+                      "sgd"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
                 }
@@ -222,12 +313,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awesome machine learning model compression research papers, quantization, tools, and learning material.",
+                    "homepage": null,
                     "id": 160631954,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2024-09-21T15:30:12Z",
+                    "open_issues": 5,
                     "owner": "cedrickchee",
                     "repo": "awesome-ml-model-compression",
-                    "stars": 546
+                    "stars": 546,
+                    "topics": [
+                      "awesome-list",
+                      "machine-learning",
+                      "model-compression",
+                      "neural-networks",
+                      "pruning",
+                      "quantization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
                 }
@@ -258,12 +361,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.",
+                    "homepage": "https://www.tensorflow.org/model_optimization",
                     "id": 155619942,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T15:24:49Z",
+                    "open_issues": 245,
                     "owner": "tensorflow",
                     "repo": "model-optimization",
-                    "stars": 1578
+                    "stars": 1578,
+                    "topics": [
+                      "compression",
+                      "deep-learning",
+                      "keras",
+                      "machine-learning",
+                      "ml",
+                      "model-compression",
+                      "optimization",
+                      "pruning",
+                      "quantization",
+                      "quantized-networks",
+                      "quantized-neural-networks",
+                      "quantized-training",
+                      "sparsity",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
                 }
@@ -290,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper list on model compression and acceleration",
+            "homepage": null,
             "id": 100860881,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-04T08:33:43Z",
+            "open_issues": 0,
             "owner": "jnjaby",
             "repo": "Model-Compression-Acceleration",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:05:01.416Z"
         }
@@ -314,12 +442,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "model-compression-and-acceleration-4-DNN ",
+                "homepage": null,
                 "id": 153794335,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-11-29T09:43:31Z",
+                "open_issues": 0,
                 "owner": "Z7zuqer",
                 "repo": "model-compression-and-acceleration-4-DNN",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "decomposition",
+                  "distillation",
+                  "model-compression",
+                  "pruning",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             },
@@ -330,12 +469,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of neural network pruning resources.",
+                "homepage": null,
                 "id": 189363210,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-04T07:18:56Z",
+                "open_issues": 16,
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
-                "stars": 2497
+                "stars": 2497,
+                "topics": [
+                  "awesome-list",
+                  "model-acceleration",
+                  "model-compression",
+                  "pruning"
+                ]
               },
               "first_seen": "2026-08-28T23:05:01.416Z"
             }
@@ -349,15 +498,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:05:01.416Z",
+    "last_updated": "2026-08-29T05:04:27.882Z",
     "original_repository_info": {
       "archived": false,
+      "description": "About DNN compression and acceleration on Edge Devices.",
+      "homepage": "https://fangvv.github.io/Homepage/Edgecomp/",
       "id": 190745374,
       "language": null,
+      "license": null,
       "last_commit": "2021-05-17T05:05:29Z",
+      "open_issues": 0,
       "owner": "fangvv",
       "repo": "awesome-edge-intelligence-collections",
-      "stars": 61
+      "stars": 61,
+      "topics": [
+        "awesome-list",
+        "copyleft",
+        "dnn",
+        "edge-computing",
+        "edge-intelligence",
+        "just-for-learning"
+      ]
     },
     "original_repository_sha": "e9d472ebc82fcfadc4d3ebb53e5f7797a71212c0",
     "enhanced_repository": "enhansome/enhansome-edge-intelligence-collections",
