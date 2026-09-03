@@ -370,7 +370,7 @@
                     "open_issues": 245,
                     "owner": "tensorflow",
                     "repo": "model-optimization",
-                    "stars": 1578,
+                    "stars": 1579,
                     "topics": [
                       "compression",
                       "deep-learning",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:12:30.218Z",
+    "last_updated": "2026-09-03T17:04:36.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
