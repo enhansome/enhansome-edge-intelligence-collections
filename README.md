@@ -920,8 +920,8 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 <https://github.com/mapleam/model-compression-and-acceleration-4-DNN> ⭐ 21 | 🐛 0 | 📅 2018-11-29  （进去看）
 
-<https://github.com/he-y/Awesome-Pruning> ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 剪枝集大成
+<https://github.com/he-y/Awesome-Pruning> ⭐ 2,498 | 🐛 16 | 📅 2024-04-04 剪枝集大成
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
