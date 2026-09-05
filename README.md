@@ -127,7 +127,7 @@ Please note that I just want to collect these links from the original sites for 
 * [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 * [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
-<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 666 | 🐛 2 | 📅 2021-08-25
+<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 665 | 🐛 2 | 📅 2021-08-25
 
 # Awesome-model-compression-and-acceleration
 
@@ -258,7 +258,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 
 # Model-Compression-Papers
 
-Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 666 | 🐛 2 | 📅 2021-08-25.
+Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 665 | 🐛 2 | 📅 2021-08-25.
 
 ### Survey
 
@@ -445,7 +445,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ## **Conditional (Adaptive) Computing**
 
-* Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2023-03-24, Google, etc.)
+* Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) ⭐ 248 | 🐛 3 | 🌐 Python | 📅 2023-03-24, Google, etc.)
 * Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind\@Alex Graves)
 * Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
 * Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

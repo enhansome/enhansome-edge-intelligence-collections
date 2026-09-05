@@ -160,7 +160,7 @@
                 "open_issues": 3,
                 "owner": "mfigurnov",
                 "repo": "sact",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "tensorflow"
                 ]
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:53:29.878Z",
+    "last_updated": "2026-09-05T16:07:48.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
