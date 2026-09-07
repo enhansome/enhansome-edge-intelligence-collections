@@ -532,7 +532,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **ICCV 2017**
 
-* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
+* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 381 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
 * Channel Pruning for Accelerating Very Deep Neural Networks. (Xi’an Jiaotong University + Megvii Inc.)
 * ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
 * Learning Efficient Convolutional Networks through Network Slimming. (Intel Labs China, etc)
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
