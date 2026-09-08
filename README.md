@@ -254,7 +254,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 - [CNN中千奇百怪的卷积方式大汇总](https://zhuanlan.zhihu.com/p/29367273)
 
-<https://github.com/chester256/Model-Compression-Papers> ⭐ 402 | 🐛 0 | 📅 2021-06-21
+<https://github.com/chester256/Model-Compression-Papers> ⭐ 401 | 🐛 0 | 📅 2021-06-21
 
 # Model-Compression-Papers
 
@@ -346,11 +346,11 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * [Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf) \[ICML '17]
 * [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf) \[ICML '17]
 
-<https://github.com/ZhishengWang/Embedded-Neural-Network> ⭐ 568 | 🐛 1 | 📅 2024-02-03
+<https://github.com/ZhishengWang/Embedded-Neural-Network> ⭐ 567 | 🐛 1 | 📅 2024-02-03
 
 # **Papers Reading List.**
 
-* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,120 | 🐛 1 | 📅 2026-03-30)
+* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,117 | 🐛 1 | 📅 2026-03-30)
 * Tutorials:
   * **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
   * **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
@@ -487,7 +487,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **Convolutional Neural Networks**
 
-* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,120 | 🐛 1 | 📅 2026-03-30
+* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,117 | 🐛 1 | 📅 2026-03-30
 
 ## **Conference Papers**
 
@@ -842,7 +842,7 @@ Content published on the Web.
 
 ### Libraries
 
-* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,579 | 🐛 247 | 🌐 Python | 📅 2026-08-24. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,578 | 🐛 247 | 🌐 Python | 📅 2026-08-24. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
 
@@ -920,8 +920,8 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 <https://github.com/mapleam/model-compression-and-acceleration-4-DNN> ⭐ 21 | 🐛 0 | 📅 2018-11-29  （进去看）
 
-<https://github.com/he-y/Awesome-Pruning> ⭐ 2,498 | 🐛 16 | 📅 2024-04-04 剪枝集大成
+<https://github.com/he-y/Awesome-Pruning> ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 剪枝集大成
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

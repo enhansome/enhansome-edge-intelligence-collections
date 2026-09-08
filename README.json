@@ -96,7 +96,7 @@
                 "open_issues": 0,
                 "owner": "chester256",
                 "repo": "Model-Compression-Papers",
-                "stars": 402,
+                "stars": 401,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -134,7 +134,7 @@
             "open_issues": 1,
             "owner": "fengbintu",
             "repo": "Neural-Networks-on-Silicon",
-            "stars": 2120,
+            "stars": 2117,
             "topics": [
               "deep-learning",
               "hardware"
@@ -192,7 +192,7 @@
                     "open_issues": 1,
                     "owner": "fengbintu",
                     "repo": "Neural-Networks-on-Silicon",
-                    "stars": 2120,
+                    "stars": 2117,
                     "topics": [
                       "deep-learning",
                       "hardware"
@@ -370,7 +370,7 @@
                     "open_issues": 247,
                     "owner": "tensorflow",
                     "repo": "model-optimization",
-                    "stars": 1579,
+                    "stars": 1578,
                     "topics": [
                       "compression",
                       "deep-learning",
@@ -478,7 +478,7 @@
                 "open_issues": 16,
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
-                "stars": 2498,
+                "stars": 2497,
                 "topics": [
                   "awesome-list",
                   "model-acceleration",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:17:03.113Z",
+    "last_updated": "2026-09-08T17:17:12.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
