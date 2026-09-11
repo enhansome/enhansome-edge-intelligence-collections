@@ -540,7 +540,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **NIPS 2017**
 
-* The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 362 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
+* The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 363 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
 * TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, [github link](https://github.com/wenwei202/terngrad) ⭐ 182 | 🐛 6 | 🌐 Python | 📅 2018-11-19)
 * Towards Accurate Binary Convolutional Neural Network. (DJI)
 * Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations. (ETH Zurich)
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

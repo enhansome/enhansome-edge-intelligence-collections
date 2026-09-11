@@ -266,7 +266,7 @@
                     "open_issues": 5,
                     "owner": "renmengye",
                     "repo": "revnet-public",
-                    "stars": 362,
+                    "stars": 363,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:05:01.416Z"
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:02:15.665Z",
+    "last_updated": "2026-09-11T17:03:06.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
