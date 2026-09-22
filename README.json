@@ -230,7 +230,7 @@
                     "open_issues": 23,
                     "owner": "wenwei202",
                     "repo": "caffe",
-                    "stars": 381,
+                    "stars": 382,
                     "topics": [
                       "acceleration",
                       "caffe",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:47:06.138Z",
+    "last_updated": "2026-09-22T17:40:01.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
