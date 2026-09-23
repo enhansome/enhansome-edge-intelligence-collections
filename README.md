@@ -127,7 +127,7 @@ Please note that I just want to collect these links from the original sites for 
 * [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 * [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
-<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 665 | 🐛 2 | 📅 2021-08-25
+<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 665 | 🐛 3 | 📅 2021-08-25
 
 # Awesome-model-compression-and-acceleration
 
@@ -258,7 +258,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 
 # Model-Compression-Papers
 
-Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 665 | 🐛 2 | 📅 2021-08-25.
+Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 665 | 🐛 3 | 📅 2021-08-25.
 
 ### Survey
 
@@ -532,7 +532,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **ICCV 2017**
 
-* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 382 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
+* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 381 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
 * Channel Pruning for Accelerating Very Deep Neural Networks. (Xi’an Jiaotong University + Megvii Inc.)
 * ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
 * Learning Efficient Convolutional Networks through Network Slimming. (Intel Labs China, etc)
@@ -693,7 +693,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
 * others to be added
 
-<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 547 | 🐛 5 | 📅 2024-09-21
+<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 546 | 🐛 5 | 📅 2024-09-21
 
 # Awesome ML Model Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -920,8 +920,8 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 <https://github.com/mapleam/model-compression-and-acceleration-4-DNN> ⭐ 21 | 🐛 0 | 📅 2018-11-29  （进去看）
 
-<https://github.com/he-y/Awesome-Pruning> ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 剪枝集大成
+<https://github.com/he-y/Awesome-Pruning> ⭐ 2,496 | 🐛 16 | 📅 2024-04-04 剪枝集大成
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

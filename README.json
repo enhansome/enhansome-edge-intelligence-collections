@@ -230,7 +230,7 @@
                     "open_issues": 23,
                     "owner": "wenwei202",
                     "repo": "caffe",
-                    "stars": 382,
+                    "stars": 381,
                     "topics": [
                       "acceleration",
                       "caffe",
@@ -322,7 +322,7 @@
                     "open_issues": 5,
                     "owner": "cedrickchee",
                     "repo": "awesome-ml-model-compression",
-                    "stars": 547,
+                    "stars": 546,
                     "topics": [
                       "awesome-list",
                       "machine-learning",
@@ -478,7 +478,7 @@
                 "open_issues": 16,
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
-                "stars": 2497,
+                "stars": 2496,
                 "topics": [
                   "awesome-list",
                   "model-acceleration",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:40:01.918Z",
+    "last_updated": "2026-09-23T17:52:42.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
