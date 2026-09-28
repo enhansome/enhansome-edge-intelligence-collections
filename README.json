@@ -478,7 +478,7 @@
                 "open_issues": 16,
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
-                "stars": 2497,
+                "stars": 2496,
                 "topics": [
                   "awesome-list",
                   "model-acceleration",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:48:54.781Z",
+    "last_updated": "2026-09-28T20:09:10.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
