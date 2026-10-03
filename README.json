@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Reading List 4",
-              "description": null,
+              "description": "csarron/awesome-emdl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -41,7 +41,7 @@
             {
               "node_type": "item",
               "title": "Reading List 5",
-              "description": null,
+              "description": "sun254/awesome-model-compression-and-acceleration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -62,7 +62,7 @@
             {
               "node_type": "item",
               "title": "Reading List 2",
-              "description": null,
+              "description": "jiecaoyu/reading_list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
             {
               "node_type": "item",
               "title": "chester256/Model-Compression-Papers",
-              "description": null,
+              "description": "chester256/Model-Compression-Papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -121,7 +121,7 @@
         {
           "node_type": "item",
           "title": "This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by Neural-Networks-on-Silicon",
-          "description": ")",
+          "description": "fengbintu/Neural-Networks-on-Silicon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -134,7 +134,7 @@
             "open_issues": 1,
             "owner": "fengbintu",
             "repo": "Neural-Networks-on-Silicon",
-            "stars": 2124,
+            "stars": 2125,
             "topics": [
               "deep-learning",
               "hardware"
@@ -179,7 +179,7 @@
                 {
                   "node_type": "item",
                   "title": "Please refer to Neural-Networks-on-Silicon",
-                  "description": null,
+                  "description": "fengbintu/Neural-Networks-on-Silicon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -192,7 +192,7 @@
                     "open_issues": 1,
                     "owner": "fengbintu",
                     "repo": "Neural-Networks-on-Silicon",
-                    "stars": 2124,
+                    "stars": 2125,
                     "topics": [
                       "deep-learning",
                       "hardware"
@@ -217,7 +217,7 @@
                 {
                   "node_type": "item",
                   "title": "Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, github link",
-                  "description": ")",
+                  "description": "wenwei202/caffe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -253,7 +253,7 @@
                 {
                   "node_type": "item",
                   "title": "The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, gihub link",
-                  "description": ")",
+                  "description": "renmengye/revnet-public",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -274,7 +274,7 @@
                 {
                   "node_type": "item",
                   "title": "TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, github link",
-                  "description": ")",
+                  "description": "wenwei202/terngrad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -309,7 +309,7 @@
                 {
                   "node_type": "item",
                   "title": "cedrickchee/awesome-ml-model-compression",
-                  "description": null,
+                  "description": "cedrickchee/awesome-ml-model-compression",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -409,7 +409,7 @@
         {
           "node_type": "item",
           "title": "jnjaby/Model-Compression-Acceleration",
-          "description": null,
+          "description": "jnjaby/Model-Compression-Acceleration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:31:46.123Z",
+    "last_updated": "2026-10-03T04:47:02.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
