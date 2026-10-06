@@ -26,7 +26,7 @@ Please note that I just want to collect these links from the original sites for 
 
 <https://www.jianshu.com/u/f5c90c3856bb>
 
-<https://github.com/sun254/awesome-model-compression-and-acceleration> ⭐ 347 | 🐛 3 | 📅 2021-06-19
+<https://github.com/sun254/awesome-model-compression-and-acceleration> ⭐ 348 | 🐛 3 | 📅 2021-06-19
 
 # awesome-model-compression-and-acceleration with stars
 
@@ -245,7 +245,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 ### References
 
 * [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 2 | 📅 2023-03-14
-* [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 347 | 🐛 3 | 📅 2021-06-19
+* [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19
 * [Reading List 2](https://github.com/jiecaoyu/reading_list) ⭐ 6 | 🐛 0 | 📅 2017-09-02
 * [Reading List](http://slazebni.cs.illinois.edu/spring17/reading_lists.html)
 * [Reading List 3](http://slazebni.cs.illinois.edu/spring17/cs598_topics.pdf)
@@ -350,7 +350,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 # **Papers Reading List.**
 
-* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,126 | 🐛 1 | 📅 2026-03-30)
+* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,128 | 🐛 1 | 📅 2026-03-30)
 * Tutorials:
   * **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
   * **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
@@ -487,7 +487,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **Convolutional Neural Networks**
 
-* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,126 | 🐛 1 | 📅 2026-03-30
+* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,128 | 🐛 1 | 📅 2026-03-30
 
 ## **Conference Papers**
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
