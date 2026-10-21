@@ -127,7 +127,7 @@ Please note that I just want to collect these links from the original sites for 
 * [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 * [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
-<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 665 | 🐛 2 | 📅 2021-08-25
+<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 664 | 🐛 2 | 📅 2021-08-25
 
 # Awesome-model-compression-and-acceleration
 
@@ -254,11 +254,11 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 - [CNN中千奇百怪的卷积方式大汇总](https://zhuanlan.zhihu.com/p/29367273)
 
-<https://github.com/chester256/Model-Compression-Papers> ⭐ 401 | 🐛 0 | 📅 2021-06-21
+<https://github.com/chester256/Model-Compression-Papers> ⭐ 402 | 🐛 0 | 📅 2021-06-21
 
 # Model-Compression-Papers
 
-Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 665 | 🐛 2 | 📅 2021-08-25.
+Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 664 | 🐛 2 | 📅 2021-08-25.
 
 ### Survey
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
