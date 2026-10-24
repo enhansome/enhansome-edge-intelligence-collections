@@ -134,7 +134,7 @@
             "open_issues": 1,
             "owner": "fengbintu",
             "repo": "Neural-Networks-on-Silicon",
-            "stars": 2133,
+            "stars": 2134,
             "topics": [
               "deep-learning",
               "hardware"
@@ -192,7 +192,7 @@
                     "open_issues": 1,
                     "owner": "fengbintu",
                     "repo": "Neural-Networks-on-Silicon",
-                    "stars": 2133,
+                    "stars": 2134,
                     "topics": [
                       "deep-learning",
                       "hardware"
@@ -366,8 +366,8 @@
                     "id": 155619942,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T00:27:37Z",
-                    "open_issues": 254,
+                    "last_commit": "2026-10-24T03:22:19Z",
+                    "open_issues": 255,
                     "owner": "tensorflow",
                     "repo": "model-optimization",
                     "stars": 1581,
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:53:47.430Z",
+    "last_updated": "2026-10-24T16:42:08.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
