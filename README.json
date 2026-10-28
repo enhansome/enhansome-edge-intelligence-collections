@@ -322,7 +322,7 @@
                     "open_issues": 5,
                     "owner": "cedrickchee",
                     "repo": "awesome-ml-model-compression",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": [
                       "awesome-list",
                       "machine-learning",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:45:38.019Z",
+    "last_updated": "2026-10-28T18:55:47.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
