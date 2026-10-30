@@ -26,7 +26,7 @@ Please note that I just want to collect these links from the original sites for 
 
 <https://www.jianshu.com/u/f5c90c3856bb>
 
-<https://github.com/sun254/awesome-model-compression-and-acceleration> ⭐ 348 | 🐛 3 | 📅 2021-06-19
+<https://github.com/sun254/awesome-model-compression-and-acceleration> ⭐ 348 | 🐛 4 | 📅 2021-06-19
 
 # awesome-model-compression-and-acceleration with stars
 
@@ -127,7 +127,7 @@ Please note that I just want to collect these links from the original sites for 
 * [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 * [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
-<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 664 | 🐛 2 | 📅 2021-08-25
+<https://github.com/memoiry/Awesome-model-compression-and-acceleration> ⭐ 664 | 🐛 3 | 📅 2021-08-25
 
 # Awesome-model-compression-and-acceleration
 
@@ -245,7 +245,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 ### References
 
 * [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 2 | 📅 2023-03-14
-* [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19
+* [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 4 | 📅 2021-06-19
 * [Reading List 2](https://github.com/jiecaoyu/reading_list) ⭐ 6 | 🐛 0 | 📅 2017-09-02
 * [Reading List](http://slazebni.cs.illinois.edu/spring17/reading_lists.html)
 * [Reading List 3](http://slazebni.cs.illinois.edu/spring17/cs598_topics.pdf)
@@ -254,11 +254,11 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 - [CNN中千奇百怪的卷积方式大汇总](https://zhuanlan.zhihu.com/p/29367273)
 
-<https://github.com/chester256/Model-Compression-Papers> ⭐ 402 | 🐛 0 | 📅 2021-06-21
+<https://github.com/chester256/Model-Compression-Papers> ⭐ 402 | 🐛 1 | 📅 2021-06-21
 
 # Model-Compression-Papers
 
-Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 664 | 🐛 2 | 📅 2021-08-25.
+Papers for neural network compression and acceleration. Partly based on [link](https://github.com/memoiry/Awesome-model-compression-and-acceleration/blob/master/README.md) ⭐ 664 | 🐛 3 | 📅 2021-08-25.
 
 ### Survey
 
@@ -350,7 +350,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 # **Papers Reading List.**
 
-* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,134 | 🐛 1 | 📅 2026-03-30)
+* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,135 | 🐛 1 | 📅 2026-03-30)
 * Tutorials:
   * **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
   * **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
@@ -487,7 +487,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **Convolutional Neural Networks**
 
-* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,134 | 🐛 1 | 📅 2026-03-30
+* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,135 | 🐛 1 | 📅 2026-03-30
 
 ## **Conference Papers**
 
@@ -693,7 +693,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
 * others to be added
 
-<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 547 | 🐛 5 | 📅 2024-09-21
+<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 547 | 🐛 6 | 📅 2024-09-21
 
 # Awesome ML Model Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -920,8 +920,8 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 <https://github.com/mapleam/model-compression-and-acceleration-4-DNN> ⭐ 21 | 🐛 0 | 📅 2018-11-29  （进去看）
 
-<https://github.com/he-y/Awesome-Pruning> ⭐ 2,495 | 🐛 16 | 📅 2024-04-04 剪枝集大成
+<https://github.com/he-y/Awesome-Pruning> ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 剪枝集大成
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

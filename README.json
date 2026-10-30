@@ -51,7 +51,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2021-06-19T07:01:24Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "sun254",
                 "repo": "awesome-model-compression-and-acceleration",
                 "stars": 348,
@@ -93,7 +93,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2021-06-21T14:59:46Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "chester256",
                 "repo": "Model-Compression-Papers",
                 "stars": 402,
@@ -134,7 +134,7 @@
             "open_issues": 1,
             "owner": "fengbintu",
             "repo": "Neural-Networks-on-Silicon",
-            "stars": 2134,
+            "stars": 2135,
             "topics": [
               "deep-learning",
               "hardware"
@@ -192,7 +192,7 @@
                     "open_issues": 1,
                     "owner": "fengbintu",
                     "repo": "Neural-Networks-on-Silicon",
-                    "stars": 2134,
+                    "stars": 2135,
                     "topics": [
                       "deep-learning",
                       "hardware"
@@ -319,7 +319,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2024-09-21T15:30:12Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "cedrickchee",
                     "repo": "awesome-ml-model-compression",
                     "stars": 547,
@@ -478,7 +478,7 @@
                 "open_issues": 16,
                 "owner": "he-y",
                 "repo": "Awesome-Pruning",
-                "stars": 2495,
+                "stars": 2497,
                 "topics": [
                   "awesome-list",
                   "model-acceleration",
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:00:25.144Z",
+    "last_updated": "2026-10-30T18:40:37.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
