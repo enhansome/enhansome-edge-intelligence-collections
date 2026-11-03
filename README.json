@@ -366,8 +366,8 @@
                     "id": 155619942,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T10:49:11Z",
-                    "open_issues": 256,
+                    "last_commit": "2026-11-03T01:08:56Z",
+                    "open_issues": 248,
                     "owner": "tensorflow",
                     "repo": "model-optimization",
                     "stars": 1582,
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:21:56.236Z",
+    "last_updated": "2026-11-03T20:09:46.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",
