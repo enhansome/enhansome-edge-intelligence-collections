@@ -160,7 +160,7 @@
                 "open_issues": 3,
                 "owner": "mfigurnov",
                 "repo": "sact",
-                "stars": 248,
+                "stars": 247,
                 "topics": [
                   "tensorflow"
                 ]
@@ -230,7 +230,7 @@
                     "open_issues": 23,
                     "owner": "wenwei202",
                     "repo": "caffe",
-                    "stars": 381,
+                    "stars": 380,
                     "topics": [
                       "acceleration",
                       "caffe",
@@ -287,7 +287,7 @@
                     "open_issues": 6,
                     "owner": "wenwei202",
                     "repo": "terngrad",
-                    "stars": 182,
+                    "stars": 181,
                     "topics": [
                       "data-parallelism",
                       "deep-learning",
@@ -366,8 +366,8 @@
                     "id": 155619942,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T07:08:59Z",
-                    "open_issues": 250,
+                    "last_commit": "2026-11-11T19:06:50Z",
+                    "open_issues": 249,
                     "owner": "tensorflow",
                     "repo": "model-optimization",
                     "stars": 1583,
@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "jnjaby",
             "repo": "Model-Compression-Acceleration",
-            "stars": 26,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T23:05:01.416Z"
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:29:36.841Z",
+    "last_updated": "2026-11-11T20:14:22.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "About DNN compression and acceleration on Edge Devices.",

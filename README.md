@@ -346,7 +346,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * [Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf) \[ICML '17]
 * [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf) \[ICML '17]
 
-<https://github.com/ZhishengWang/Embedded-Neural-Network> ⭐ 567 | 🐛 1 | 📅 2024-02-03
+<https://github.com/ZhishengWang/Embedded-Neural-Network> ⭐ 566 | 🐛 1 | 📅 2024-02-03
 
 # **Papers Reading List.**
 
@@ -445,7 +445,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ## **Conditional (Adaptive) Computing**
 
-* Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) ⭐ 248 | 🐛 3 | 🌐 Python | 📅 2023-03-24, Google, etc.)
+* Spatially Adaptive Computation Time for Residual Networks. ([github link](https://github.com/mfigurnov/sact) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2023-03-24, Google, etc.)
 * Adaptive Computation Time for Recurrent Neural Networks. (Google DeepMind\@Alex Graves)
 * Variable Computation in Recurrent Neural Networks. (New York University + Facebook AI Research)
 * Hierarchical Multiscale Recurrent Neural Networks. (Montréal)
@@ -532,7 +532,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **ICCV 2017**
 
-* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 381 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
+* Coordinating Filters for Faster Deep Neural Networks. (University of Pittsburgh + Duke University, etc, [github link](https://github.com/wenwei202/caffe) ⭐ 380 | 🐛 23 | 🌐 C++ | 📅 2020-03-08)
 * Channel Pruning for Accelerating Very Deep Neural Networks. (Xi’an Jiaotong University + Megvii Inc.)
 * ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression. (Nanjing University, etc)
 * Learning Efficient Convolutional Networks through Network Slimming. (Intel Labs China, etc)
@@ -541,7 +541,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 ### **NIPS 2017**
 
 * The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 363 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
-* TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, [github link](https://github.com/wenwei202/terngrad) ⭐ 182 | 🐛 6 | 🌐 Python | 📅 2018-11-19)
+* TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, [github link](https://github.com/wenwei202/terngrad) ⭐ 181 | 🐛 6 | 🌐 Python | 📅 2018-11-19)
 * Towards Accurate Binary Convolutional Neural Network. (DJI)
 * Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations. (ETH Zurich)
 * Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks. (Intel)
@@ -842,7 +842,7 @@ Content published on the Web.
 
 ### Libraries
 
-* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,583 | 🐛 250 | 🌐 Python | 📅 2026-11-08. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,583 | 🐛 249 | 🌐 Python | 📅 2026-11-11. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
 
@@ -858,7 +858,7 @@ Content published on the Web.
 
 To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) has waived all copyright and related or neighboring rights to this work.
 
-<https://github.com/jnjaby/Model-Compression-Acceleration> ⭐ 26 | 🐛 0 | 📅 2019-06-04
+<https://github.com/jnjaby/Model-Compression-Acceleration> ⭐ 25 | 🐛 0 | 📅 2019-06-04
 
 # Model-Compression-Acceleration
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
