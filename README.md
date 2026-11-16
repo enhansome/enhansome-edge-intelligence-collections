@@ -244,7 +244,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 
 ### References
 
-* [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 2 | 📅 2023-03-14
+* [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 3 | 📅 2023-03-14
 * [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 4 | 📅 2021-06-19
 * [Reading List 2](https://github.com/jiecaoyu/reading_list) ⭐ 6 | 🐛 0 | 📅 2017-09-02
 * [Reading List](http://slazebni.cs.illinois.edu/spring17/reading_lists.html)
@@ -540,7 +540,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **NIPS 2017**
 
-* The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 363 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
+* The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 364 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
 * TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, [github link](https://github.com/wenwei202/terngrad) ⭐ 181 | 🐛 6 | 🌐 Python | 📅 2018-11-19)
 * Towards Accurate Binary Convolutional Neural Network. (DJI)
 * Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations. (ETH Zurich)
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
