@@ -244,7 +244,7 @@ Some papers I collected and deemed to be great to read, which is also what I'm a
 
 ### References
 
-* [Reading List 4](https://github.com/csarron/emdl) ⭐ 769 | 🐛 3 | 📅 2023-03-14
+* [Reading List 4](https://github.com/csarron/emdl) ⭐ 768 | 🐛 3 | 📅 2023-03-14
 * [Reading List 5](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 4 | 📅 2021-06-19
 * [Reading List 2](https://github.com/jiecaoyu/reading_list) ⭐ 6 | 🐛 0 | 📅 2017-09-02
 * [Reading List](http://slazebni.cs.illinois.edu/spring17/reading_lists.html)
@@ -350,7 +350,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 # **Papers Reading List.**
 
-* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,137 | 🐛 1 | 📅 2026-03-30)
+* This is a collection of papers aiming at reducing model sizes or the ASIC/FPGA accelerator for Machine Learning, especially deep neural network related applications. (Inspiled by [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,136 | 🐛 1 | 📅 2026-03-30)
 * Tutorials:
   * **Hardware Accelerator**: Efficient Processing of Deep Neural Networks. ([link](https://arxiv.org/abs/1703.09039))
   * **Model Compression**: Model Compression and Acceleration for Deep Neural Networks. ([link](https://arxiv.org/abs/1710.09282))
@@ -487,7 +487,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **Convolutional Neural Networks**
 
-* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,137 | 🐛 1 | 📅 2026-03-30
+* Please refer to  [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md) ⭐ 2,136 | 🐛 1 | 📅 2026-03-30
 
 ## **Conference Papers**
 
@@ -540,7 +540,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### **NIPS 2017**
 
-* The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 364 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
+* The Reversible Residual Network: Backpropagation Without Storing Activations. (University of Toronto, [gihub link](https://github.com/renmengye/revnet-public) ⭐ 362 | 🐛 5 | 🌐 Python | 📅 2018-06-19)
 * TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning. (Duke University, etc, [github link](https://github.com/wenwei202/terngrad) ⭐ 181 | 🐛 6 | 🌐 Python | 📅 2018-11-19)
 * Towards Accurate Binary Convolutional Neural Network. (DJI)
 * Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations. (ETH Zurich)
@@ -693,7 +693,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
 * others to be added
 
-<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 548 | 🐛 6 | 📅 2024-09-21
+<https://github.com/cedrickchee/awesome-ml-model-compression> ⭐ 547 | 🐛 6 | 📅 2024-09-21
 
 # Awesome ML Model Compression [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -842,7 +842,7 @@ Content published on the Web.
 
 ### Libraries
 
-* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,584 | 🐛 251 | 🌐 Python | 📅 2026-11-18. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+* [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization) ⭐ 1,583 | 🐛 251 | 🌐 Python | 📅 2026-11-19. Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
 
@@ -920,8 +920,8 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 <https://github.com/mapleam/model-compression-and-acceleration-4-DNN> ⭐ 21 | 🐛 0 | 📅 2018-11-29  （进去看）
 
-<https://github.com/he-y/Awesome-Pruning> ⭐ 2,497 | 🐛 16 | 📅 2024-04-04 剪枝集大成
+<https://github.com/he-y/Awesome-Pruning> ⭐ 2,496 | 🐛 16 | 📅 2024-04-04 剪枝集大成
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
