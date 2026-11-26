@@ -346,7 +346,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 * [Beyond Filters: Compact Feature Map for Portable Deep Model](http://proceedings.mlr.press/v70/wang17m/wang17m.pdf) \[ICML '17]
 * [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf) \[ICML '17]
 
-<https://github.com/ZhishengWang/Embedded-Neural-Network> ⭐ 566 | 🐛 1 | 📅 2024-02-03
+<https://github.com/ZhishengWang/Embedded-Neural-Network> ⭐ 567 | 🐛 1 | 📅 2024-02-03
 
 # **Papers Reading List.**
 
@@ -924,4 +924,4 @@ To the extent possible under law, [Cedric Chee](https://github.com/cedrickchee) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
